@@ -1,5 +1,5 @@
 ## Welcome, I'm Jenn 👋
-## HackCamp
+## HackCamp Intro to Git
 
 <!--
 **jenniferrnguyen/jenniferrnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
