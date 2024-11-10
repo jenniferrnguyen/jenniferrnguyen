@@ -1,6 +1,7 @@
-## Welcome, I'm Jenn 👋
-## HackCamp Intro to Git
-# main changes
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7AF79A&size=25&center=true&vCenter=true&width=600&height=100&lines=CS+and+Public+Health+@+UBC;Curious+about+:;Fullstack+Development,+AI/ML,+Design;Active+Learner+;Thanks+For+Stopping+By+&hearts;++;"></a>
+</p>
+
 <!--
 **jenniferrnguyen/jenniferrnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
